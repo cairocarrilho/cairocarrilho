@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Dev's  👋
 
 <!--
 **cairocarrilho/cairocarrilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello Dev's 
-
 
 My name is Cairo Carrilho, I'm Brazilian, I'm a programming student, passionate about technology looking to improve 1% every day. Seeking to be a fullstack programmer. Currently I'm focused on stacks.🚀
  
